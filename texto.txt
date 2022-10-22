@@ -1,4 +1,9 @@
 Hola Buenos días
+the teacher explains well
 
+<<<<<<< HEAD
 
 hamilton °°°°°°°|°°|
+=======
+ale
+>>>>>>> d6e05bde0fc6281a09c27bd4c4042acd8ca75678
