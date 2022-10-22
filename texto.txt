@@ -1,3 +1,8 @@
 Hola Buenos días
+the teacher explains well
 
+<<<<<<< HEAD
 Me llamo yarawi campo y ustedes?
+=======
+ale
+>>>>>>> d6e05bde0fc6281a09c27bd4c4042acd8ca75678
