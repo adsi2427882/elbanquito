@@ -5,6 +5,7 @@ hola buenos dias a todos muchachones :)
 the teacher explains well
 >>>>>>> d6e05bde0fc6281a09c27bd4c4042acd8ca75678
 
+<<<<<<< HEAD
 ale
 
 
@@ -26,3 +27,11 @@ ale
 
 
 daniel 
+=======
+<<<<<<< HEAD
+
+hamilton °°°°°°°|°°|
+=======
+ale
+>>>>>>> d6e05bde0fc6281a09c27bd4c4042acd8ca75678
+>>>>>>> 3dfc31c8a06511aa5c95fe759c5a4cb9a62f6ec2
